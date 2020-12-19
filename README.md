@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there,I'm ranchongzhi👋
+
+[![example](https://img.shields.io/badge/My%20Blog-ResetRan-brightgreen)](https://resetran.top) &ensp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=ranchongzhi.ranchongzhi)
+
+I am an undergraduate studying at [Xidian University](https://en.xidian.edu.cn/),My major is intelligent science and technology.
+
+🌱 **I currently learning:**
+
+- Machine learning and deep learning
+- Pattern recognition
+- c++
 
 
-**ranchongzhi/ranchongzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranchongzhi&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ranchongzhi&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
