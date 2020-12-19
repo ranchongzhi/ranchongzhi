@@ -11,7 +11,7 @@ I am an undergraduate studying at [Xidian University](https://en.xidian.edu.cn/)
 - c++
 
 
-----
+
+[![ranchongzhi's github stats](https://github-readme-stats.vercel.app/api?username=ranchongzhi&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranchongzhi&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ranchongzhi&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
