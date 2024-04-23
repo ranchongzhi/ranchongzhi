@@ -7,8 +7,8 @@ I am a current master's student at [Xidian University](https://en.xidian.edu.cn/
 🌱 **I currently learning:**
 
 - NeRF (Neural Radiance Fields)
+- Anomaly Detection
 - Image Restoration
-- Object Detection
 
 
 
